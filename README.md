@@ -15,4 +15,4 @@
 2. sidebar의 메모 클릭 후 메모 내용 작성
 
 ## firebase 화면
-![2](src/image/memoapp4.png)
+![2](src/image/memoapp2.png)
