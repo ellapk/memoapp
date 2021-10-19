@@ -8,11 +8,11 @@
 
 
 ## 메모 추가 과정
-![2](src/image/memoapp2.png)
+![3](src/image/memoapp3.png)
 1. 왼쪽 상단의 **새로작성** 버튼 클릭 후 제목 입력
 
-![3](src/image/memoapp3.png)
-2. 
+![4](src/image/memoapp4.png)
+2. sidebar의 메모 클릭 후 메모 내용 작성
 
 ## firebase 화면
-![4](src/image/memoapp4.png)
+![2](src/image/memoapp4.png)
