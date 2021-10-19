@@ -4,5 +4,15 @@
 
 
 ## 메인페이지 화면
+![1](src/image/memoapp1.png)
+
+
+## 메모 추가 과정
+![2](src/image/memoapp2.png)
+1. 왼쪽 상단의 **새로작성** 버튼 클릭 후 제목 입력
+
+![3](src/image/memoapp3.png)
+2. 
 
 ## firebase 화면
+![4](src/image/memoapp4.png)
