@@ -26,7 +26,7 @@ class SidebarItemComponent extends React.Component {
                     }> 
                         <ListItemText
                         primary={_memo.title}
-                        secondary={removeHTMLTags(_memo.body.substring(0,30))+'...' //helpers.js->html태그 지움, 내용의 30자만 보이게
+                        secondary={removeHTMLTags(_memo.body.substring(0,20))+'...' //helpers.js->html태그 지움, 내용의 30자만 보이게
                     }> </ListItemText>
                 </div>
                 <DeleteIcon onClick={()=>this.deleteMemo(_memo)}
